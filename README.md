@@ -4,7 +4,6 @@ This repository contains both the AI backend (LangGraph + Python agents) and the
 
 📂 `backend/` – Narrative generation, map structure, and agent system  
 🎮 `unity-client/` – Unity project for interaction and game interface  
-🛠️ `scripts/` – Tools and utilities (e.g., exporters, benchmarks)
 
 
 ## 🛠️ Setup Instructions
