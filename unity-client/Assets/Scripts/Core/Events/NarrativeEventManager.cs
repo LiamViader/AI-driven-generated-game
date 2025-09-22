@@ -407,8 +407,7 @@ public class NarrativeEventManager : MonoBehaviour
 
                 _currentTextLog.UpdateLeftName(onLeft ? speakerName : "", onLeft);
                 _currentTextLog.UpdateRightName(!onLeft ? speakerName : "", !onLeft);
-                UpdateCharacterStates(_currentSpeakerId);
-                _currentSpeakerId = message.speaker_id;
+                UpdateCharacterStates(message.speaker_id);
             }
         }
 

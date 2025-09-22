@@ -9,7 +9,7 @@ from api.services.generation_status import (
 from subsystems.generation.orchestrator import get_generation_graph_app
 from subsystems.generation.schemas.graph_state import GenerationGraphState
 from core_game.game_state.singleton import GameStateSingleton
-from subsystems.generation.refinement_loop.pipelines import map_then_characters_pipeline, fast_test_pipeline, slow_test_pipeline, fast_test_events_pipeline
+from subsystems.generation.refinement_loop.pipelines import map_then_characters_pipeline, fast_test_pipeline, slow_test_pipeline, fast_test_events_pipeline, regenerative_microsteps_pipeline
 from utils.progress_tracker import ProgressTracker
 from api.schemas.status import GenerationStatusModel
 

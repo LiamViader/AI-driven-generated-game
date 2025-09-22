@@ -224,7 +224,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4279165433
+    rgba: 4290296249
   m_fontColor: {r: 0.7264151, g: 0.72606516, b: 0.7229886, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -318,8 +318,8 @@ RectTransform:
   - {fileID: 5472828749683015183}
   m_Father: {fileID: 3666323318971061191}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.15, y: 0.05}
-  m_AnchorMax: {x: 0.85, y: 0.85}
+  m_AnchorMin: {x: 0.18, y: 0.05}
+  m_AnchorMax: {x: 0.82, y: 0.85}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
