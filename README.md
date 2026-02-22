@@ -1,4 +1,4 @@
-# TFG – AI-Generated and Directed Video Game
+# AI-Generated and Directed Video Game
 
 This repository contains both the AI backend (LangGraph + Python agents) and the Unity-based frontend for the TFG project.
 
