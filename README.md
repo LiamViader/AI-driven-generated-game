@@ -46,3 +46,12 @@ If not, download it from https://www.python.org/downloads/
     pip install -r requirements.txt
     python main.py
 ```
+
+## License
+
+This project is proprietary software.
+
+The source code is publicly visible for demonstration purposes only.
+No permission is granted to use, copy, modify, or distribute this code.
+
+For licensing inquiries, contact: contact@liamviader.com
